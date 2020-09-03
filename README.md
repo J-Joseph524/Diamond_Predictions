@@ -1,4 +1,4 @@
-# Linear_Regression_Project
+# Diamond_Predictions
 
 # INTRODUCTION:
 
